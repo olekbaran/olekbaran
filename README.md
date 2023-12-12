@@ -1,3 +1,3 @@
 <a href="https://olekbaran.com">
-  <img src="https://github.com/olekbaran/olekbaran/assets/74045117/87d7c10f-eb1b-465c-b22d-3abb8f07cd27" />
+  <img src="https://github.com/olekbaran/olekbaran/assets/74045117/bd8f8587-e9f3-402d-9462-9d11e9072d45" />
 </a>
